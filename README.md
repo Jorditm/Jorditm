@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi I'm Jordi Torras ✌️
+
+I'm front-end web developer with digital marketing and e-commerce knowledge. 💻
+
+Technology has always fascinated me for everything that can be created, for how it can be done and has motivated me to keep learning more and more. 💞
 
 <!--
 **Jorditm/Jorditm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
